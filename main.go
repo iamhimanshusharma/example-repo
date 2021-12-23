@@ -9,11 +9,9 @@ import (
 func main() {
 	fmt.Println("Hello Himanshu!")
 	fmt.Println("Adding newline")
-	fmt.Println("This line will itself in dev branch.")
+	fmt.Println("This line will show itself in dev branch.")
 
-	newlife("Himanshu")
-
-	// fmt.Println("Your addition is: ", prt)
+	newFunction("hello")
 
 	added := b.Add(5, 6)
 

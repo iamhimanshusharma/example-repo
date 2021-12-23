@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func newlife(name string) {
+func newFunction(name string) {
 	fmt.Println("I am working! ", name)
 }
